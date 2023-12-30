@@ -1,0 +1,7 @@
+config/
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+media_base64/
+coverage/
+token/
